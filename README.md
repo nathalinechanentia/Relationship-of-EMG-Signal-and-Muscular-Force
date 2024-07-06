@@ -1,0 +1,1 @@
+# Relationship-of-EMG-Signal-and-Muscular-Force
